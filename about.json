@@ -1,0 +1,57 @@
+{
+  "about": {
+    "name": "John Doe",
+    "title": "Développeur Web",
+    "bio": "Je suis un développeur passionné par les technologies web...",
+    "education": [
+      {
+        "degree": "Licence Informatique",
+        "school": "Université de Paris",
+        "year": "2015-2018"
+      },
+      {
+        "degree": "Master Informatique",
+        "school": "Université de Paris",
+        "year": "2018-2020"
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Développeur Web Junior",
+        "company": "Startup X",
+        "date": "Janvier 2021 - Juillet 2021",
+        "description": "Conception et développement de fonctionnalités pour une application web...",
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "HTML/CSS"
+        ]
+      },
+      {
+        "title": "Développeur Web Fullstack",
+        "company": "Entreprise Y",
+        "date": "Août 2021 - présent",
+        "description": "Responsable de la conception, du développement et de la maintenance d'une plateforme de e-commerce...",
+        "skills": [
+          "React",
+          "Node.js",
+          "MongoDB",
+          "GraphQL"
+        ]
+      }
+    ],
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "GraphQL"
+    ],
+    "hobbies": [
+      "Lecture",
+      "Voyages",
+      "Photographie"
+    ]
+  }
+}

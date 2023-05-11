@@ -1,0 +1,110 @@
+{
+    "projects": [
+        {
+            "title": "Gestionnaire de tâches",
+            "description": "Application web permettant de gérer des tâches avec une interface utilisateur intuitive et des fonctionnalités avancées de planification et de suivi des tâches.",
+            "skills": [
+                "PHP",
+                "JavaScript",
+                "MySQL"
+            ],
+            "link": "https://www.monprojet1.com"
+        },
+        {
+            "title": "Blog personnel",
+            "description": "Site web personnel avec un blog, une galerie de photos, une page de contact et un portfolio.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://www.monprojet2.com"
+        },
+        {
+            "title": "Réseau social",
+            "description": "Application web de réseau social permettant aux utilisateurs de se connecter, de partager des publications et de communiquer avec d'autres utilisateurs.",
+            "skills": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "link": "https://www.monprojet3.com"
+        },
+        {
+            "title": "Jeux vidéo en ligne",
+            "description": "Site web de jeux vidéo en ligne avec plusieurs jeux disponibles pour les joueurs, des classements et des tournois.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MySQL"
+            ],
+            "link": "https://www.monprojet4.com"
+        },
+        {
+            "title": "Application de gestion de stock",
+            "description": "Application web de gestion de stock pour les entreprises, permettant de suivre les stocks, les commandes et les livraisons.",
+            "skills": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "link": "https://www.monprojet5.com"
+        },
+        {
+            "title": "Application mobile de fitness",
+            "description": "Application mobile de fitness permettant aux utilisateurs de créer des séances d'entraînement personnalisées, de suivre leur progression et de communiquer avec des coachs en ligne.",
+            "skills": [
+                "React Native",
+                "Node.js",
+                "MongoDB"
+            ],
+            "link": "https://www.monprojet6.com"
+        },
+        {
+            "title": "Site web de voyage",
+            "description": "Site web de voyage avec des fonctionnalités de recherche de vols, de réservation d'hôtels et d'organisation d'itinéraires.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MySQL"
+            ],
+            "link": "https://www.monprojet7.com"
+        },
+        {
+            "title": "Application de réservation de restaurant",
+            "description": "Application web de réservation de restaurant permettant aux utilisateurs de réserver une table, de consulter le menu et de payer en ligne.",
+            "skills": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "link": "https://www.monprojet8.com"
+        },
+        {
+            "title": "Site web de musique",
+            "description": "Site web de musique avec des fonctionnalités de streaming audio, de création de playlists et de découverte de nouveaux artistes.",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP",
+                "MySQL"
+            ],
+            "link": "https://www.monprojet9.com"
+        },
+        {
+            "title": "Application de réservation de transport",
+            "description": "Application mobile de réservation de transport permettant aux utilisateurs de réserver des taxis et des VTC.",
+            "skills": [
+                "React Native",
+                "Node.js",
+                "MongoDB"
+            ],
+            "link": "https://www.monprojet10.com"
+        }
+    ]
+}
