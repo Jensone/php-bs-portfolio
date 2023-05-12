@@ -129,7 +129,7 @@ VALUES
    ('Licence en Mathématiques', 'Université de Lyon', '2006-09-01', '2009-06-30', 'Programme de mathématiques avancées avec une spécialisation en théorie des nombres'),
    ('Baccalauréat scientifique', 'Lycée Jean Moulin', '2003-09-01', '2006-06-30', 'Programme général en sciences avec une spécialisation en mathématiques et physique');
 
-INSERT INTO experience (title, entreprise, date_debut, date_fin, description) VALUES 
+INSERT INTO experience (title, company, start_date, end_date, description) VALUES 
 ('Développeur Full-Stack', 'XYZ Corporation', '2020-01-01', '2023-05-31', 'Travaillé en tant que développeur Full-Stack, avec une expertise en React, Node.js et MySQL.'),
 ('Stagiaire Développeur Web', 'ABC Startup', '2018-06-01', '2018-09-30', 'Stage en tant que développeur web, travaillant sur des projets HTML, CSS et JavaScript.'),
 ('Assistant Marketing Digital', 'DEF Entreprise', '2016-09-01', '2017-06-30', 'Assisté l\'équipe de marketing digital dans l\'analyse de données et la création de contenu pour les réseaux sociaux.'),
