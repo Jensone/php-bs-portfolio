@@ -122,3 +122,21 @@ INSERT INTO projects(title,description,skills,link) VALUES (
     'React Native, Node.js, MongoDB',
     'https://www.monprojet10.com'
 );
+
+INSERT INTO education (degree, institution, start_date, end_date, description)
+VALUES 
+   ('Master en Informatique', 'Université de Paris', '2009-09-01', '2011-06-30', 'Programme axé sur les systèmes distribués et les réseaux'),
+   ('Licence en Mathématiques', 'Université de Lyon', '2006-09-01', '2009-06-30', 'Programme de mathématiques avancées avec une spécialisation en théorie des nombres'),
+   ('Baccalauréat scientifique', 'Lycée Jean Moulin', '2003-09-01', '2006-06-30', 'Programme général en sciences avec une spécialisation en mathématiques et physique');
+
+INSERT INTO experience (poste, entreprise, date_debut, date_fin, description) VALUES 
+('Développeur Full-Stack', 'XYZ Corporation', '2020-01-01', '2023-05-31', 'Travaillé en tant que développeur Full-Stack, avec une expertise en React, Node.js et MySQL.'),
+('Stagiaire Développeur Web', 'ABC Startup', '2018-06-01', '2018-09-30', 'Stage en tant que développeur web, travaillant sur des projets HTML, CSS et JavaScript.'),
+('Assistant Marketing Digital', 'DEF Entreprise', '2016-09-01', '2017-06-30', 'Assisté l\'équipe de marketing digital dans l\'analyse de données et la création de contenu pour les réseaux sociaux.'),
+('Analyste de Données', 'GHI Consulting', '2013-07-01', '2015-12-31', 'Responsable de l\'analyse de données pour plusieurs clients, avec une expertise en SQL et en visualisation de données.'),
+('Stagiaire Ingénieur Logiciel', 'JKL Solutions', '2009-05-01', '2009-08-31', 'Stage en tant qu\'ingénieur logiciel, travaillant sur des projets Java et C++.');
+
+INSERT INTO ABOUT (name, title, bio, skills, hobbies) VALUES 
+('John Doe', 'Développeur Web', 'Je suis un développeur passionné par les technologies web...', 
+'["PHP", "JavaScript", "React", "Node.js", "MongoDB", "GraphQL"]', 
+'["Lecture", "Voyages", "Photographie"]');
