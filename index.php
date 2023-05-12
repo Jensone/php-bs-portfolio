@@ -1,29 +1,12 @@
-<!DOCTYPE html>
-<html lang="fr">
+<?php 
+/**
+ * 
+ */
+include_once dirname(__FILE__) . '/partials/_head.php'; 
+include_once dirname(__FILE__) . '/partials/_header.php'; 
 
-<head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio</title>
-  <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/assets/css/main.css" />
-</head>
+?>
 
-<body>
-  <header class="d-flex flex-wrap justify-content-center py-3 m-2 mb-4 border-bottom">
-    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-      <span class="fs-4">Simple header</span>
-    </a>
-
-    <ul class="nav nav-pills">
-      <li class="nav-item"><a href="#" class="nav-link">À propos</a></li>
-      <li class="nav-item"><a href="#" class="nav-link">Projets</a></li>
-      <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
-    </ul>
-  </header>
-
-  <main>
     <div class="container">
       <div class="row align-items-center g-lg-5 py-5">
         <div class="col-lg-7 text-center text-lg-start">
@@ -140,18 +123,4 @@
     </div><!-- /.container -->
 
 
-    <!-- FOOTER -->
-    <footer class="py-3 my-4">
-      <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">À propos</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Projets</a></li>
-        <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Contact</a></li>
-      </ul>
-      <p class="text-center text-body-secondary">&copy; 2023 Portfolio</p>
-    </footer>
-  </main>
-
-  <script src="/assets/js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html>
+<?php include_once dirname(__FILE__) . '/partials/_footer.php'; ?>

@@ -14,8 +14,5 @@
      $requeteSql = 'SELECT * from ' . $table; 
      $resultat = connexion()->query($requeteSql); 
      $preparation = $resultat->fetchAll(PDO::FETCH_ASSOC);
-     var_dump($preparation);
+     return $preparation;
 }
-
-// Lancement de la fonction getData() avec la table 'PROJECTS' en paramètre
-getData('PROJECTS');
